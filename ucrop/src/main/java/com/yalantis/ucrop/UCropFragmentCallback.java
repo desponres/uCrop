@@ -1,4 +1,4 @@
-package com.yalantis.ucrop;
+package com.desponres.ucrop;
 
 public interface UCropFragmentCallback {
 

@@ -1,4 +1,4 @@
-package com.yalantis.ucrop.view;
+package com.desponres.ucrop.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -9,14 +9,14 @@ import android.graphics.drawable.Drawable;
 import android.os.AsyncTask;
 import android.util.AttributeSet;
 
-import com.yalantis.ucrop.R;
-import com.yalantis.ucrop.callback.BitmapCropCallback;
-import com.yalantis.ucrop.callback.CropBoundsChangeListener;
-import com.yalantis.ucrop.model.CropParameters;
-import com.yalantis.ucrop.model.ImageState;
-import com.yalantis.ucrop.task.BitmapCropTask;
-import com.yalantis.ucrop.util.CubicEasing;
-import com.yalantis.ucrop.util.RectUtils;
+import com.desponres.ucrop.R;
+import com.desponres.ucrop.callback.BitmapCropCallback;
+import com.desponres.ucrop.callback.CropBoundsChangeListener;
+import com.desponres.ucrop.model.CropParameters;
+import com.desponres.ucrop.model.ImageState;
+import com.desponres.ucrop.task.BitmapCropTask;
+import com.desponres.ucrop.util.CubicEasing;
+import com.desponres.ucrop.util.RectUtils;
 
 import java.lang.ref.WeakReference;
 import java.util.Arrays;

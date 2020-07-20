@@ -1,8 +1,8 @@
-package com.yalantis.ucrop.callback;
+package com.desponres.ucrop.callback;
 
 import android.graphics.Bitmap;
 
-import com.yalantis.ucrop.model.ExifInfo;
+import com.desponres.ucrop.model.ExifInfo;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

@@ -1,4 +1,4 @@
-package com.yalantis.ucrop.util;
+package com.desponres.ucrop.util;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -12,8 +12,8 @@ import android.util.Log;
 import android.view.Display;
 import android.view.WindowManager;
 
-import com.yalantis.ucrop.callback.BitmapLoadCallback;
-import com.yalantis.ucrop.task.BitmapLoadTask;
+import com.desponres.ucrop.callback.BitmapLoadCallback;
+import com.desponres.ucrop.task.BitmapLoadTask;
 
 import java.io.Closeable;
 import java.io.IOException;

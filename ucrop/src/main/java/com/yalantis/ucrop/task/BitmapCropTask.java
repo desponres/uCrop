@@ -1,4 +1,4 @@
-package com.yalantis.ucrop.task;
+package com.desponres.ucrop.task;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -7,12 +7,12 @@ import android.net.Uri;
 import android.os.AsyncTask;
 import android.util.Log;
 
-import com.yalantis.ucrop.callback.BitmapCropCallback;
-import com.yalantis.ucrop.model.CropParameters;
-import com.yalantis.ucrop.model.ExifInfo;
-import com.yalantis.ucrop.model.ImageState;
-import com.yalantis.ucrop.util.FileUtils;
-import com.yalantis.ucrop.util.ImageHeaderParser;
+import com.desponres.ucrop.callback.BitmapCropCallback;
+import com.desponres.ucrop.model.CropParameters;
+import com.desponres.ucrop.model.ExifInfo;
+import com.desponres.ucrop.model.ImageState;
+import com.desponres.ucrop.util.FileUtils;
+import com.desponres.ucrop.util.ImageHeaderParser;
 
 import java.io.File;
 import java.io.IOException;

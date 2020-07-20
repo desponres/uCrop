@@ -1,4 +1,4 @@
-package com.yalantis.ucrop.view;
+package com.desponres.ucrop.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -12,9 +12,9 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.yalantis.ucrop.R;
-import com.yalantis.ucrop.callback.OverlayViewChangeListener;
-import com.yalantis.ucrop.util.RectUtils;
+import com.desponres.ucrop.R;
+import com.desponres.ucrop.callback.OverlayViewChangeListener;
+import com.desponres.ucrop.util.RectUtils;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

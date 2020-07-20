@@ -1,4 +1,4 @@
-package com.yalantis.ucrop.view;
+package com.desponres.ucrop.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -7,9 +7,9 @@ import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.widget.FrameLayout;
 
-import com.yalantis.ucrop.R;
-import com.yalantis.ucrop.callback.CropBoundsChangeListener;
-import com.yalantis.ucrop.callback.OverlayViewChangeListener;
+import com.desponres.ucrop.R;
+import com.desponres.ucrop.callback.CropBoundsChangeListener;
+import com.desponres.ucrop.callback.OverlayViewChangeListener;
 
 import androidx.annotation.NonNull;
 

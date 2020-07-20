@@ -1,4 +1,4 @@
-package com.yalantis.ucrop.view.widget;
+package com.desponres.ucrop.view.widget;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -10,7 +10,7 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.yalantis.ucrop.R;
+import com.desponres.ucrop.R;
 
 import androidx.annotation.ColorInt;
 import androidx.core.content.ContextCompat;

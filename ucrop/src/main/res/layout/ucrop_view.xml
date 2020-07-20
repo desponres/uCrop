@@ -5,13 +5,13 @@
 
     <!-- Padding for both views can be different -->
 
-    <com.yalantis.ucrop.view.GestureCropImageView
+    <com.desponres.ucrop.view.GestureCropImageView
         android:id="@+id/image_view_crop"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="@dimen/ucrop_padding_crop_frame"/>
 
-    <com.yalantis.ucrop.view.OverlayView
+    <com.desponres.ucrop.view.OverlayView
         android:id="@+id/view_overlay"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

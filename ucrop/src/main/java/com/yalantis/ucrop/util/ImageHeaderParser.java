@@ -28,7 +28,7 @@
  * Adapted for the uCrop library.
  */
 
-package com.yalantis.ucrop.util;
+package com.desponres.ucrop.util;
 
 import android.text.TextUtils;
 import android.util.Log;

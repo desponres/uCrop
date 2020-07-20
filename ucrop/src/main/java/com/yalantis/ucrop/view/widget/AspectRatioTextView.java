@@ -1,4 +1,4 @@
-package com.yalantis.ucrop.view.widget;
+package com.desponres.ucrop.view.widget;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -12,9 +12,9 @@ import android.text.TextUtils;
 import android.util.AttributeSet;
 import android.view.Gravity;
 
-import com.yalantis.ucrop.R;
-import com.yalantis.ucrop.model.AspectRatio;
-import com.yalantis.ucrop.view.CropImageView;
+import com.desponres.ucrop.R;
+import com.desponres.ucrop.model.AspectRatio;
+import com.desponres.ucrop.view.CropImageView;
 
 import java.util.Locale;
 

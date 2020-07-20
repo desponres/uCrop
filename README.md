@@ -11,7 +11,7 @@
 
 *For a working implementation, please have a look at the Sample Project - sample*
 
-<a href="https://play.google.com/store/apps/details?id=com.yalantis.ucrop.sample&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="185" height="70"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.desponres.ucrop.sample&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="185" height="70"/></a>
 
 1. Include the library as local library project.
 
@@ -32,7 +32,7 @@
 
     ```
     <activity
-        android:name="com.yalantis.ucrop.UCropActivity"
+        android:name="com.desponres.ucrop.UCropActivity"
         android:screenOrientation="portrait"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
     ```
@@ -62,9 +62,9 @@
 5. You may want to add this to your PROGUARD config:
 
     ```
-    -dontwarn com.yalantis.ucrop**
-    -keep class com.yalantis.ucrop** { *; }
-    -keep interface com.yalantis.ucrop** { *; }
+    -dontwarn com.desponres.ucrop**
+    -keep class com.desponres.ucrop** { *; }
+    -keep interface com.desponres.ucrop** { *; }
     ```
 
 # Customization

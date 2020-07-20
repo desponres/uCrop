@@ -1,4 +1,4 @@
-package com.yalantis.ucrop;
+package com.desponres.ucrop;
 
 import android.content.Context;
 import android.content.Intent;
@@ -17,16 +17,16 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.yalantis.ucrop.callback.BitmapCropCallback;
-import com.yalantis.ucrop.model.AspectRatio;
-import com.yalantis.ucrop.util.SelectedStateListDrawable;
-import com.yalantis.ucrop.view.CropImageView;
-import com.yalantis.ucrop.view.GestureCropImageView;
-import com.yalantis.ucrop.view.OverlayView;
-import com.yalantis.ucrop.view.TransformImageView;
-import com.yalantis.ucrop.view.UCropView;
-import com.yalantis.ucrop.view.widget.AspectRatioTextView;
-import com.yalantis.ucrop.view.widget.HorizontalProgressWheelView;
+import com.desponres.ucrop.callback.BitmapCropCallback;
+import com.desponres.ucrop.model.AspectRatio;
+import com.desponres.ucrop.util.SelectedStateListDrawable;
+import com.desponres.ucrop.view.CropImageView;
+import com.desponres.ucrop.view.GestureCropImageView;
+import com.desponres.ucrop.view.OverlayView;
+import com.desponres.ucrop.view.TransformImageView;
+import com.desponres.ucrop.view.UCropView;
+import com.desponres.ucrop.view.widget.AspectRatioTextView;
+import com.desponres.ucrop.view.widget.HorizontalProgressWheelView;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
@@ -194,7 +194,7 @@ public class UCropFragment extends Fragment {
     }
 
     /**
-     * This method extracts {@link com.yalantis.ucrop.UCrop.Options #optionsBundle} from incoming bundle
+     * This method extracts {@link com.desponres.ucrop.UCrop.Options #optionsBundle} from incoming bundle
      * and setups fragment, {@link OverlayView} and {@link CropImageView} properly.
      */
     @SuppressWarnings("deprecation")

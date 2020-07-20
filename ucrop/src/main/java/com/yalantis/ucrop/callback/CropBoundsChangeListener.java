@@ -1,4 +1,4 @@
-package com.yalantis.ucrop.callback;
+package com.desponres.ucrop.callback;
 
 /**
  * Interface for crop bound change notifying.

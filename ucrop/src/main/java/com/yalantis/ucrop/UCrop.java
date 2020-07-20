@@ -1,4 +1,4 @@
-package com.yalantis.ucrop;
+package com.desponres.ucrop;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
@@ -11,7 +11,7 @@ import android.os.Build;
 import android.os.Bundle;
 import android.os.Parcelable;
 
-import com.yalantis.ucrop.model.AspectRatio;
+import com.desponres.ucrop.model.AspectRatio;
 
 import java.util.ArrayList;
 import java.util.Arrays;

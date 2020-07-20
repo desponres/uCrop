@@ -1,4 +1,4 @@
-package com.yalantis.ucrop.task;
+package com.desponres.ucrop.task;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -11,9 +11,9 @@ import android.util.Log;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.yalantis.ucrop.callback.BitmapLoadCallback;
-import com.yalantis.ucrop.model.ExifInfo;
-import com.yalantis.ucrop.util.BitmapLoadUtils;
+import com.desponres.ucrop.callback.BitmapLoadCallback;
+import com.desponres.ucrop.model.ExifInfo;
+import com.desponres.ucrop.util.BitmapLoadUtils;
 
 import java.io.File;
 import java.io.FileOutputStream;

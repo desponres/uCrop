@@ -1,4 +1,4 @@
-package com.yalantis.ucrop.callback;
+package com.desponres.ucrop.callback;
 
 import android.net.Uri;
 

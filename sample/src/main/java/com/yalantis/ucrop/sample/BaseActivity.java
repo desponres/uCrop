@@ -1,4 +1,4 @@
-package com.yalantis.ucrop.sample;
+package com.desponres.ucrop.sample;
 
 import android.content.DialogInterface;
 

@@ -1,4 +1,4 @@
-package com.yalantis.ucrop.model;
+package com.desponres.ucrop.model;
 
 import android.os.Parcel;
 import android.os.Parcelable;
