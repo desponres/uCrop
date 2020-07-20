@@ -93,8 +93,8 @@ public class FastBitmapDrawable extends Drawable {
     public void setBitmap(Bitmap b) {
         mBitmap = b;
         if (b != null) {
-            mWidth = mBitmap.getWidth();
-            mHeight = mBitmap.getHeight();
+            mWidth = mBitmap.getWidth()/2;
+            mHeight = mBitmap.getHeight()/2;
         } else {
             mWidth = mHeight = 0;
         }
